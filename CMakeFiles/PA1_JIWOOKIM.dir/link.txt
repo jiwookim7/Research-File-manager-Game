@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -g   CMakeFiles/PA1_JIWOOKIM.dir/main.cpp.o CMakeFiles/PA1_JIWOOKIM.dir/FileManager.cpp.o  -o PA1_JIWOOKIM 

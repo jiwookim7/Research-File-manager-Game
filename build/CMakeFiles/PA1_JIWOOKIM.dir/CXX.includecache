@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/FileManager.hpp
+/home/jiwoo/cpts223_pa/CPTS223_PA/FileManager.hpp
 LinkedList.hpp
-/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/LinkedList.hpp
+/home/jiwoo/cpts223_pa/CPTS223_PA/LinkedList.hpp
 iostream
 -
 fstream
@@ -18,11 +18,11 @@ cstring
 sstream
 -
 
-/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/LinkedList.hpp
+/home/jiwoo/cpts223_pa/CPTS223_PA/LinkedList.hpp
 Node.hpp
-/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/Node.hpp
+/home/jiwoo/cpts223_pa/CPTS223_PA/Node.hpp
 
-/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/Node.hpp
+/home/jiwoo/cpts223_pa/CPTS223_PA/Node.hpp
 iostream
 -
 fstream
@@ -34,9 +34,9 @@ sstream
 time.h
 -
 
-/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/main.cpp
+/home/jiwoo/cpts223_pa/CPTS223_PA/main.cpp
 LinkedList.hpp
-/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/LinkedList.hpp
+/home/jiwoo/cpts223_pa/CPTS223_PA/LinkedList.hpp
 FileManager.hpp
-/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/FileManager.hpp
+/home/jiwoo/cpts223_pa/CPTS223_PA/FileManager.hpp
 

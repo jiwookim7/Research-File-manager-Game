@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jiwoo/cpts223_pa/CPTS223_PA/FileManager.cpp" "/home/jiwoo/cpts223_pa/CPTS223_PA/build/CMakeFiles/PA1_JIWOOKIM.dir/FileManager.cpp.o"
-  "/home/jiwoo/cpts223_pa/CPTS223_PA/main.cpp" "/home/jiwoo/cpts223_pa/CPTS223_PA/build/CMakeFiles/PA1_JIWOOKIM.dir/main.cpp.o"
+  "/home/jiwoo/cpts223_pa/CPTS223_PA/FileManager.cpp" "/home/jiwoo/cpts223_pa/CPTS223_PA/CMakeFiles/PA1_JIWOOKIM.dir/FileManager.cpp.o"
+  "/home/jiwoo/cpts223_pa/CPTS223_PA/main.cpp" "/home/jiwoo/cpts223_pa/CPTS223_PA/CMakeFiles/PA1_JIWOOKIM.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

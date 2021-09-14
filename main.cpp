@@ -350,7 +350,7 @@ int main(int arcg, char *argv[])
             a.storeCommand();
             a.storeProfile();
 
-            break;
+            return 0;
         }
     }
 }

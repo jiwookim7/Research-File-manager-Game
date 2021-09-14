@@ -3,8 +3,6 @@
 
 CMakeFiles/PA1_JIWOOKIM.dir/FileManager.cpp.o: ../FileManager.cpp
 CMakeFiles/PA1_JIWOOKIM.dir/FileManager.cpp.o: ../FileManager.hpp
-CMakeFiles/PA1_JIWOOKIM.dir/FileManager.cpp.o: ../LinkedList.hpp
-CMakeFiles/PA1_JIWOOKIM.dir/FileManager.cpp.o: ../Node.hpp
 
 CMakeFiles/PA1_JIWOOKIM.dir/main.cpp.o: ../FileManager.hpp
 CMakeFiles/PA1_JIWOOKIM.dir/main.cpp.o: ../LinkedList.hpp
