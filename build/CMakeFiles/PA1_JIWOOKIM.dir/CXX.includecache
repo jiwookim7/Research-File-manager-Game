@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/FileManager.hpp
+LinkedList.hpp
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/LinkedList.hpp
+iostream
+-
+fstream
+-
+cstring
+-
+sstream
+-
+
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/LinkedList.hpp
+Node.hpp
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/Node.hpp
+
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/Node.hpp
+iostream
+-
+fstream
+-
+cstring
+-
+sstream
+-
+time.h
+-
+
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/main.cpp
+LinkedList.hpp
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/LinkedList.hpp
+FileManager.hpp
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/FileManager.hpp
+

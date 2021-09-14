@@ -1,0 +1,3 @@
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/yjk93/OneDrive/문서/CPTS 223/PA1_JIWOO_KIM/build/CMakeFiles/PA1_JIWOOKIM.dir
