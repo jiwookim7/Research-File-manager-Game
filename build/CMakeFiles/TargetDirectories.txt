@@ -1,3 +1,0 @@
-/home/jiwoo/cpts223_pa/CPTS223_PA/build/CMakeFiles/rebuild_cache.dir
-/home/jiwoo/cpts223_pa/CPTS223_PA/build/CMakeFiles/edit_cache.dir
-/home/jiwoo/cpts223_pa/CPTS223_PA/build/CMakeFiles/PA1_JIWOOKIM.dir
