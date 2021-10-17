@@ -1,4 +1,4 @@
-# Install script for directory: /home/jiwoo/MA2_JIWOOKIM
+# Install script for directory: /home/jiwoo/cpts223_pa/CPTS223_PA/MA2_JIWOOKIM
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jiwoo/MA2_JIWOOKIM/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/jiwoo/cpts223_pa/CPTS223_PA/MA2_JIWOOKIM/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

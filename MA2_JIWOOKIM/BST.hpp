@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <limits>
+#include <vector>
 using namespace std;
 
 
@@ -87,6 +88,16 @@ protected:
 		printInOrderHelper(root->right);
 	}
 
+	void destrutorHelper(Node<T>* root)
+	{
+		//post order
+		if(root == NULL)
+			return;
+		destrutorHelper(root->left);
+		destrutorHelper(root->right);
+		delete  root;
+	}
+
 	/* Return number of nodes in tree */
 	int nodesCountHelper(Node<T>* root) {
 		if (!root) {
@@ -111,12 +122,24 @@ protected:
     {
 		if(root == NULL)
 		{
+			// return vector<int>();
 			return;
 		}
 		cout << root->value << " ";
 
 		int left = heightHelper(root->left);
 		int right = heightHelper(root->right);
+
+		// if (left.size() > right.size())
+		//{
+			// left.push_back(value);
+			// return left;
+		//}
+		//else
+		//{
+			// right.push
+			//return right;
+		//}
 
 		if(left > right)
 		{
@@ -202,7 +225,7 @@ public:
 	 * TODO: Implement Destructor
 	 */
 	~BST() {
-	    
+	    destrutorHelper(this->_root);
 	}
 
 	/* Public API */
