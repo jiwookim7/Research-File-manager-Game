@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -g   CMakeFiles/MA2_JIWOOKIM.dir/main.cpp.o  -o MA2_JIWOOKIM 

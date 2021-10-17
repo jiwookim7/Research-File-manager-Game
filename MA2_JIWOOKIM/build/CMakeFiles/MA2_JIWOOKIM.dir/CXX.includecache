@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jiwoo/MA2_JIWOOKIM/BST.hpp
+iostream
+-
+limits
+-
+
+/home/jiwoo/MA2_JIWOOKIM/main.cpp
+BST.hpp
+/home/jiwoo/MA2_JIWOOKIM/BST.hpp
+
